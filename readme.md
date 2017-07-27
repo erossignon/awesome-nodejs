@@ -778,7 +778,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [snappy](https://github.com/kesla/node-snappy) - Bindings for Google's serializer/ compressor.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Google's Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - The fastest schema-based pure-js serializer.
-
+- [serialijse](https://github.com/erossignon/serialijse) - schema-less serializer/deserializer of complex javascript object networks.
 
 ### Miscellaneous
 
